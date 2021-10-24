@@ -21,18 +21,18 @@
 </p>
 
 <p align="left">
-  <a emailto="douglasmoraisdev@gmail.com" alt="Gmail">
+  <a href="mailto:douglasmoraisdev@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
-  <a href="https://www.linkedin.com/in/douglasmorais" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/douglasmorais" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
-  <a href="https://web.whatsapp.com/send?phone=5588996776422" alt="WhatsApp">
+  <a href="https://web.whatsapp.com/send?phone=5588996776422" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 
-  <a href="https://twitter.com/JDouglas_Morais" alt="Twitter">
+  <a href="https://twitter.com/JDouglas_Morais" alt="Twitter" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white"/></a>
 
-  <a href="https://www.instagram.com/douglas_moraiis" alt="Instagram">
+  <a href="https://www.instagram.com/douglas_moraiis" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 </p>  
