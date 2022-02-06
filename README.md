@@ -1,35 +1,48 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Douglas Morais</h1>
-<h3 align="center">Sou um desenvolvedor web focado em aprender mais e elevar minha experiencia ao próximo nível.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, i'm Douglas Morais</h1>
+<h3 align="center">I'm dev focused on learning more and level up my experience.</h3></br>
 
+
++ 🔭 Working as a Full stack Developer at <a href=https://fitbank.com.br/>Fitbank 450</a>.
+
++ 📚 Graduating in Computer Science at <a href="https://www.ufc.br/">Federal University of Ceará</a>.
+
++ 🔥 Currently studying, <b>Typescript</b>, <b>React.js</b>, <b>C#</b> and <b>.NET</b>
+
++ 💬 If you have any questions about <b>HTML</b>, <b>CSS</b> and <b>Javascript</b>, i can help you.
+</p>
+
++ ✉️ Contact me: ⤵️
 </br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="330px" max-width="330px" width="330px" align="right" alt="Imagem Computador">
 
-<p align="left"> 
-  📚 Estudo Ciência da Computação pela <a href="https://www.ufc.br/">Universidade Federal do Ceará</a>.
-</p>
-
-<p align="left">
-  🦄 Quero aprender mais sobre <a href="https://www.typescriptlang.org/">Typescript</a>, <a href="https://nodejs.org/">Node.js</a>, <a href="https://reactjs.org/">React.js</a> . . .
-</p>
-
-<p align="left">
- 💬 Se tiver alguma dúvida sobre <b>HTML</b>, <b>CSS</b> e <b>Javascript</b>, eu posso te ajudar.
-</p>
-
-<p align="left">
-  💌 Entre em contato comigo: ⤵️
-</p>
-
-<p align="left">
-  <a href="https://web.whatsapp.com/send?phone=5588996776422" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
+<p align="center">
+  <a href="https://web.whatsapp.com/send?phone=5588996776422" alt="WhatsApp" target="_blank" >
+  <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   
   <a href="https://www.linkedin.com/in/douglasmorais" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 
   <a href="https://www.instagram.com/douglas_moraiis" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
   <a href="https://twitter.com/JDouglas_Morais" alt="Twitter" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>  
+   
+## 🛠 Development Stacks
+<p>
+  <img src="https://i.imgur.com/TsyugKp.png" width="40"/>
+  <img src="https://i.imgur.com/9x0bCOp.png" width="40"/>
+  <img src="https://i.imgur.com/RffZy7A.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40">
+  <img src="https://i.imgur.com/aHUb5YG.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40">
+</p>
+
+## 📊 GitHub Analytics
+<div align="center">
+  <a href="https://github.com/douglasmoraiis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasmoraiis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide=&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmoraiis&hide=dockerfile,shell,ejs&hide_border=true&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+
