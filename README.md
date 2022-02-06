@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, i'm Douglas Morais</h1>
-<h3 align="center">I'm dev focused on learning more and level up my experience.</h3></br>
+<h3 align="center">I'm dev focused on learning more and level up my experience 🚀</h3></br>
 
 
 + 🔭 Working as a Full stack Developer at <a href=https://fitbank.com.br/>Fitbank 450</a>.
