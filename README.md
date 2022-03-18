@@ -6,7 +6,7 @@
 
 + 📚 Graduating in **Computer Science** at <a href="https://www.ufc.br/">Federal University of Ceará</a>.
 
-+ 🔥 Currently studying, **Typescript**, **React.js**, **C#** and **.NET**
++ 🔥 Currently studying, **Typescript**, **React.js**, **.NET** and **C#**
 
 + 💬 If you have any questions about **HTML**, **CSS** and **Javascript**, i can help you.
 
