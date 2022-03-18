@@ -28,7 +28,7 @@
 </p>  
    
 ## 🛠 Development Stacks
-<p>
+<p align="center">
   <img src="https://i.imgur.com/TsyugKp.png" width="40"/>
   <img src="https://i.imgur.com/9x0bCOp.png" width="40"/>
   <img src="https://i.imgur.com/RffZy7A.png" width="40"/>
